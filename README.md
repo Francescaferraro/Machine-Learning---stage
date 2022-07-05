@@ -1,5 +1,5 @@
 # Machine-Learning---stage
-progetto di tirocinio svolto presso l'Università degli studi di Milano - data di realizzazione Febbraio/Maggio 2022
+progetto di tirocinio svolto presso l'Università degli studi di Milano - data di realizzazione: Febbraio/Maggio 2022
 
 
 Il lavoro si pone l’obiettivo di realizzare un classificatore binario che, analizzando i video dal dataset UBFC-Phys (https://ieee-dataport.org/open-access/ubfc-phys-2), distingue se il soggetto rappresentato in un video si trova in una situazione di stress oppure di non-stress. 
