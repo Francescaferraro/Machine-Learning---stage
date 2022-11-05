@@ -1,4 +1,4 @@
-# Machine-Learning---stage
+# Machine-Learning---internship
 progetto di tirocinio svolto presso l'Università degli studi di Milano - data di realizzazione: Febbraio/Maggio 2022
 
 
