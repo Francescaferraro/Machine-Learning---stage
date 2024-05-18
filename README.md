@@ -1,7 +1,4 @@
 # Machine-Learning---internship
-progetto di tirocinio svolto presso l'Università degli studi di Milano - data di realizzazione: Febbraio/Maggio 2022
+Internship Project conducted at the University of Milan - Date of Completion: February/May 2022
 
-
-Il lavoro si pone l’obiettivo di realizzare un classificatore binario che, analizzando i video dal dataset UBFC-Phys (https://ieee-dataport.org/open-access/ubfc-phys-2), distingue se il soggetto rappresentato in un video si trova in una situazione di stress oppure di non-stress. 
-Per ogni fase del lavoro, sono stati scelti particolari algoritmi di Machine Learning, in particolare: MTCNN per il rilevamento del volto, tre diverse reti neurali convoluzionali per l’estrazione di features (VGG-Face, MobileNet e i3D) e per la classificazione il modello di Support Vector Machine, sfruttando due delle sue funzioni kernel (lineare
-e Radial Basis Function). 
+The objective of this work is to develop a binary classifier that, by analyzing videos from the UBFC-Phys dataset (https://ieee-dataport.org/open-access/ubfc-phys-2), distinguishes whether the subject in a video is experiencing a situation of stress or non-stress. For each phase of the work, specific Machine Learning algorithms were chosen, in particular: MTCNN for face detection, three different convolutional neural networks for feature extraction (VGG-Face, MobileNet, and i3D), and for classification, the Support Vector Machine model, utilizing two of its kernel functions (linear and Radial Basis Function).
